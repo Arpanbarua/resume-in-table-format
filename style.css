@@ -1,0 +1,148 @@
+@font-face
+{
+   font-family: myfont;
+   src: url('./HemgjordLettering_PERSONAL_USE_ONLY.otf') 
+}
+
+@font-face
+{
+    font-family: fontpara;
+    src: url('./Sunset\ Friday.otf')
+}
+
+@font-face
+{
+    font-family: fontaddress;
+    src: url('./Holiday\ Island.ttf')
+}
+
+@font-face
+{
+    font-family: we_part;
+    src: url('./Honey\ Money.ttf')
+}
+
+@font-face
+{
+    font-family: pro_g_head;
+    src: url('./RohitaDEMO.otf')
+}
+/* *
+{
+    margin: 0;
+    
+} */
+.borderbottom
+{
+    border-bottom: 1px solid black;
+    /* width: 60%; */
+    padding: 20px;
+}
+
+img
+{
+    
+    border-radius: 50%;
+}
+
+.pro_g_para
+{
+    /* padding: 10px; */
+    font-size: 20px;
+    font-family: fontpara;
+}
+
+.pro_g_main
+{
+    background-color: aquamarine;
+}
+
+.first
+{
+    background-color: orange;
+}
+
+.pro_g
+{
+    font-size: 30px;
+    margin: 0;
+    font-family: pro_g_head;
+    
+}
+
+@font-face
+{
+    font-family: Acahis;
+    src: url('./THROLL.otf')
+}
+.AH
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: bolder;
+    font-family: Acahis;
+    
+}
+
+.AH_t 
+{
+    font-family: Acahis;
+    font-size: 20px;
+    background-color: rgb(216, 195, 195);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.address td
+{
+    font-family: fontaddress;
+    font-size: 20px;
+   
+}
+
+.WE
+{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.We_main
+{
+    font-family: we_part;
+    background-color: rgb(201, 201, 224);
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+
+.name
+{
+    color: blue;
+    margin: 0;
+    background-color: aliceblue;
+    border:  3px dotted black;
+    text-align: center;
+    font-family: myfont;
+    font-size: 50px;
+}
+
+@font-face
+{
+    font-family: skillsfont;
+    src: url('./SnowmanHouse.otf')
+}
+
+.skills h3
+{
+    font-size: 30px;
+}
+
+.skills{
+    font-size: 20px;
+    font-family: skillsfont;
+    background-color: rgb(233, 182, 162);
+    padding: 10px;
+    box-sizing: border-box;
+}
+
