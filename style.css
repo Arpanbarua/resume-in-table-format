@@ -146,3 +146,7 @@ img
     box-sizing: border-box;
 }
 
+.mainbox
+{
+    box-shadow: 3px 10px 30px #000;
+}
